@@ -1,0 +1,12 @@
+Paris,O:New York,4,25,50;Rome,10,31,37;
+New York,O:Tokyo,9,28,37;
+Rome,O:Tokyo,10,15,18;Londres,6,12,24;
+Tokyo,M:Londres,8,27,40;
+Londres,N:Sydney,3,24,38;
+Sydney,O:Singapour,7,11,24;Madrid,8,12,34;
+Madrid,O:Singapour,6,24,40;
+Singapour,M:Pékin,1,41,91;
+Berlin,M:Vienne,4,25,52;
+Vienne,N:Moscou,3,12,16;
+Pékin,O:Moscou,1,45,97;
+Moscou,M:;
